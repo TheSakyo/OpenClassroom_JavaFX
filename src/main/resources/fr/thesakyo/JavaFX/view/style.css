@@ -1,0 +1,33 @@
+#delete {
+
+  -fx-background-color: red;
+  -fx-text-fill: white;
+  -fx-background-radius: 10px;
+}
+
+#delete:hover {
+
+  -fx-background-color: #d1d1cf;
+  -fx-text-fill: darkred;
+  -fx-border-color: darkred;
+  -fx-border-radius: 15px;
+  -fx-background-radius: 15px;
+  -fx-cursor: HAND;
+}
+
+#edit {
+
+  -fx-background-color: green;
+  -fx-text-fill: white;
+  -fx-background-radius: 10px;
+}
+
+#edit:hover {
+
+  -fx-background-color: #d1d1cf;
+  -fx-text-fill: darkgreen;
+  -fx-border-color: darkgreen;
+  -fx-border-radius: 15px;
+  -fx-background-radius: 15px;
+  -fx-cursor: HAND;
+}
